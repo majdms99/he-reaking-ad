@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/he-reaking-ad/static/css/main.8ef3fa1f.chunk.css",
+    "main.js": "/he-reaking-ad/static/js/main.86792684.chunk.js",
+    "main.js.map": "/he-reaking-ad/static/js/main.86792684.chunk.js.map",
+    "runtime-main.js": "/he-reaking-ad/static/js/runtime-main.c687adbb.js",
+    "runtime-main.js.map": "/he-reaking-ad/static/js/runtime-main.c687adbb.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/he-reaking-ad/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.a056aafd.chunk.js": "/he-reaking-ad/static/js/2.a056aafd.chunk.js",
+    "static/js/2.a056aafd.chunk.js.map": "/he-reaking-ad/static/js/2.a056aafd.chunk.js.map",
+    "index.html": "/he-reaking-ad/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/he-reaking-ad/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.8ef3fa1f.chunk.css.map": "/he-reaking-ad/static/css/main.8ef3fa1f.chunk.css.map",
+    "static/js/2.a056aafd.chunk.js.LICENSE.txt": "/he-reaking-ad/static/js/2.a056aafd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/he-reaking-ad/static/media/bg.085908ea.jpg",
+    "static/media/logo.e6ecab44.png": "/he-reaking-ad/static/media/logo.e6ecab44.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c687adbb.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.a056aafd.chunk.js",
+    "static/css/main.8ef3fa1f.chunk.css",
+    "static/js/main.86792684.chunk.js"
+  ]
+}
